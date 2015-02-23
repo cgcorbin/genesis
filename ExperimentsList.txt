@@ -1,0 +1,8 @@
+Genesis Project Experiments
+
+Procedural Planet Generation
+procedural Star Generation
+Run-Time Terrain Editing
+Forest population
+Weather systems
+population AI
